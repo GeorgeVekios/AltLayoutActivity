@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Écran Fantaisie</string>
+    <string name="department">Département</string>
+    <string name="email">Courriel</string>
+    <string name="extension">Extension</string>
+    <string name="supervisor">Superviseur</string>
+    <string name="direct_reports">Subordonnés directs</string>
+</resources>
